@@ -23,10 +23,10 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
   // Followers - Cambiar mensajes
   const messages = [
     'Esta flor es para ti mi coshita ',
-    'Te amo, te amare siempre',
-    'Gracias por estar para mi bellakita hermosha',
-    '¡Eres la mujer  increible que conozco sigue luchando por tus sueños que yo se que los vas a lograr!',
-    '¡Feliz dia de la mujer mi niña preciosa te amooooo❤️!'
+    'Te amo, te amaré siempre',
+    'Gracias por estar para mi bellakita hermosa',
+    '¡Eres la mujer increíble que conozco, sigue luchando por tus sueños que yo sé que los vas a lograr!',
+    '¡feliz Día de la Mujer. 🌷Hoy celebro la increíble mujer que eres: fuerte, hermosa, inteligente y capaz \nde iluminar mi vida con tu amor. Gracias por inspirarme todos los días a ser mejor.\n  Y qué mejor forma de felicitarte que usando mi arte, la programación, para escribirte \neste pequeño detalle y recordarte que eres la línea de código más perfecta que existe en mi vida. 💻❤️!'
   ];
   
   var wrapper = document.querySelector('.wrapper');
